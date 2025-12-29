@@ -4,7 +4,7 @@ Make some changes to this file.
 
 Maybe fill this out?
 
-* The operating system I use is ______
-* The text editor I use is ______
-* The kind of phone I use is _______
-* The superhero I am thinking of is ___________
+* The operating system I use is linux and osx
+* The text editor I use is vscode
+* The kind of phone I use is android
+* The superhero I am thinking of is spiderman
