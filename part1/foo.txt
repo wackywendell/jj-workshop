@@ -1,10 +1,7 @@
-Follow the instructions in the Google Slide
+Follow the instructions in the Google Slide.
 
-Make some changes to this file.
+I have made some changes to this file.
 
-Maybe fill this out?
+I filled out the below in a different branch, and then decided I didn't like the questions.
 
-* The best operating system is ______
-* The best text editor is ______
-* The best kind of phone is _______
-* The best superhero is ___________
+So now there are no questions.
